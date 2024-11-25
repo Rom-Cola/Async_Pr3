@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
 
-public class ArraySearch {
+public class ArraySearchWorkStealing {
     private static final int MIN = 1;
     private static final int MAX = 100;
 
